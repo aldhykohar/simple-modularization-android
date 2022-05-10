@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.aldhykohar.feature_a.ui.FeatureAActivity
+import com.bumptech.glide.Glide
 import com.example.learn_modularization_android.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
