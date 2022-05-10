@@ -2,4 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.aldhykohar.feature_a">
 
+    <application>
+        <activity
+            android:name=".ui.FeatureAActivity"
+            android:exported="false" />
+    </application>
+
 </manifest>

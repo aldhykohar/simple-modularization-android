@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/DATA ALDI/Android/Learn/learnmodularizationandroid/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/DATA ALDI/Android/Learn/learnmodularizationandroid/feature_a/src/main/res/layout/activity_main.xml" value="0.18385416666666668" />
         <entry key="..\:/DATA ALDI/Android/learnmodularizationandroid/app/src/main/res/layout/activity_main.xml" value="0.16979166666666667" />
       </map>
     </option>

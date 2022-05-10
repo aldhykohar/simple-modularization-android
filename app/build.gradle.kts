@@ -32,9 +32,14 @@ android {
     kotlinOptions {
         jvmTarget = "1.8"
     }
+    buildFeatures {
+        viewBinding = true
+    }
 }
 
 dependencies {
+
+    implementation(project(":feature_a"))
 
     implementation(ApplicationLibs.coreKTX)
     implementation(ApplicationLibs.appcompat)
