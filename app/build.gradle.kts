@@ -40,6 +40,7 @@ android {
 dependencies {
 
     implementation(project(":feature_a"))
+    implementation(project(":feature_b"))
 
     implementation(ApplicationLibs.coreKTX)
     implementation(ApplicationLibs.appcompat)
