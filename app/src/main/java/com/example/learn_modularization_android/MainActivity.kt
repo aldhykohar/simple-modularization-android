@@ -23,5 +23,8 @@ class MainActivity : AppCompatActivity() {
         binding.moduleAMB.setOnClickListener {
             startActivity(Intent(this, FeatureAActivity::class.java))
         }
+        binding.moduleBMB.setOnClickListener {
+//            startActivity(Intent(this, FeatureBActivi::class.java))
+        }
     }
 }
